@@ -93,26 +93,6 @@ I'm <strong>ANKAN MAITI</strong>, a Computer Science graduate and currently  <st
 </table>
 
 ---
-
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ankan-sxc&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankan-sxc&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankan-sxc&style=flat-square" alt="Profile Views"/>
-</p>
-
----
-
 ## 📈 GitHub Contributions
 
 <p align="center">
